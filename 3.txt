@@ -1,1 +1,2 @@
 This is 3.txt for yash
+but now he want to content of 3.txt
